@@ -1,4 +1,4 @@
-Iris Flower Classification - ML Internship Task
+Iris Flower Classification - Machine Learning
 
 This project uses 3 Machine Learning models to classify iris flower species using the classic Iris dataset.
 
